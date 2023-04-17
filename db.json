@@ -1,0 +1,24 @@
+{
+  "perfil": [
+    {
+      "nombre": "Juan Dias",
+      "email": "juanito_dias@example.com",
+      "id": "3e6f9e62-3517-4381-ae08-02f6b18a4478"
+    },
+    {
+      "nombre": "Pablo Quiroz",
+      "email": "pablo_quiroz@example.com",
+      "id": "656ad6a3-e551-45a9-95f7-282a3e046326"
+    },
+    {
+      "nombre": "Maria Campos",
+      "email": "maria123@example.com",
+      "id": "0ef39d4b-27a6-4035-988f-e4899954affb"
+    },
+    {
+      "nombre": "Elmer Rivadeneira",
+      "email": "elmerrivas22@gmail.com",
+      "id": "04dd6c6f-8d49-4085-8bda-4e71b0558347"
+    }
+  ]
+}
